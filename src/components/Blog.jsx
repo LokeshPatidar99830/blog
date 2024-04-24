@@ -178,7 +178,7 @@ const Blog = () => {
 
                    <div>
                     <div className='text-center'>
-                      <h1>"Some of the History of Our Company is that we are Catching up through Video"</h1>
+                      <h1>"Some of the History of Our Company is that we are Catching up through Videos"</h1>
                       <button className=' text-base text-gray-100 h-7 w-28 border-none rounded-md border-2  border-transparent  bg-red-600'>Get in Touch</button>
                   </div>
                    </div>
